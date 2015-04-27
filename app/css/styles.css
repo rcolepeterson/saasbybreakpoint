@@ -1,0 +1,14 @@
+body {
+  background-color: #0db2ef; }
+
+h1 {
+  background-color: #BDB76B; }
+
+@media only screen and (min-width: 768px) {
+  h1 {
+    background-color: #FF8C00; } }
+@media only screen and (min-width: 1024px) {
+  h1 {
+    background-color: #fff; } }
+
+/*# sourceMappingURL=styles.css.map */
